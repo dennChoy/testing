@@ -1,0 +1,129 @@
+{
+    "pxObjClass": "BHD-Int-ProdoctivityForm-ProdoctivityFormAPI_Request",
+    "body_POST": {
+        "BankRepresentativeCity": "DISTRITO NACIONAL",
+        "DocumentHandle": "184144",
+        "pxObjClass": "BHD-Int-ProdoctivityForm-ProdoctivityForm",
+        "SpecialCondition": "Si",
+        "VinPerAmerican": "No",
+        "VinPersCitizenship": "Panamá",
+        "VinPersCity": "La Cuchilla (DM)",
+        "VinPersCountry": "República Dominicana",
+        "VinPersFAcademicLevel": "Bachiller",
+        "VinPersFBankRepresentativeName": "DennysChoy",
+        "VinPersFBirthDate": "2000-02-28",
+        "VinPersFChannel": "CLM",
+        "VinPersFCityOfBirth": "Otras Ciudades",
+        "VinPersFCountryOfBirth": "Panamá",
+        "VinPersFCurrencyAssets": "RDP",
+        "VinPersFCurrencyHeritage": "RDP",
+        "VinPersFCurrencyLiabilities": "RDP",
+        "VinPersFCurrencyOfExpenses": "RDP",
+        "VinPersFFirstLastName": "Sigasi",
+        "VinPersFFirstName": "Juan",
+        "VinPersFGender": "Male",
+        "VinPersFIdentityDocumentType": "Pasaporte",
+        "VinPersFIdNumberMainCountry": "DB2347632",
+        "VinPersFIncomeCurrency": "RDP",
+        "VinPersFJobTitle": "SIN PROFESION",
+        "VinPersFMaritalStatus": "Soltero",
+        "VinPersFNoIdNumber": "DUB872356",
+        "VinPersFPassportCountry": "Panamá",
+        "VinPersFPassportNumber": "DUB872356",
+        "VinPersFProductsCFBHD": "ARIZONA DIAMONDBACKS",
+        "VinPersFRequestDate": "2021-02-25",
+        "VinPersFSecondName": "Alberto",
+        "VinPersFTotalHeritage": "0",
+        "VinPersNum": "98",
+        "VinPersPEP": "No",
+        "VinPersPFDwellingType": "Alquilada",
+        "VinPersPlace": "Jengibre",
+        "VinPersProvince": "San Cristóbal",
+        "VinPersRelationPep": "No",
+        "VinPersSector": "El Cidral",
+        "VinPersStreet": "89",
+        "VinPersTel": "+18091234567",
+        "VinPersTelType": "Móvil",
+        "VinPersTypeForm": "N/A",
+        "WitnessIdDocument1": "12345678900",
+        "WitnessIdDocument2": "00987654321",
+        "WitnessName1": "Leticia Moun",
+        "WitnessName2": "Nikté Cium",
+        "Assets": [],
+        "Conditions": [
+            {
+                "pxObjClass": "BHD-Int-ProdoctivityForm-Conditions",
+                "VinPersCondition": "Juan Alberto Sigasi No sabe leer ni escribir"
+            },
+            {
+                "pxObjClass": "BHD-Int-ProdoctivityForm-Conditions",
+                "VinPersCondition": "Mariel Biotre No vidente"
+            }
+        ],
+        "EconomicFinancialActivity": [
+            {
+                "pxObjClass": "BHD-Int-ProdoctivityForm-EconomicFinancialActivity",
+                "VinPersEconomicActivity": "OTROS SERVICIOS (ESTUDIANTES, AMA DE CASA, PENSIONADOS)",
+                "VinPersFAdmissionDateStartAct": "2017-02-10",
+                "VinPersFAmount": "50000",
+                "VinPersFCurrency1": "RDP",
+                "VinPersFFrequency": "Mensual",
+                "VinPersFIncomeType": "Ingresos Familiares",
+                "VinPersOcupacion": "Estudiante"
+            }
+        ],
+        "Liabilities": [],
+        "MonthlyExpenses": [
+            {
+                "pxObjClass": "BHD-Int-ProdoctivityForm-MonthlyExpenses",
+                "VinPersCurrencyExpenditures": "RDP",
+                "VinPersExpensesAmount": "10000",
+                "VinPersExpensesM": "Alimentos",
+                "VinPersTotalExpenses": "10000"
+            }
+        ],
+        "MonthlyIncome": [
+            {
+                "CurrencyIncome": "RDP",
+                "pxObjClass": "BHD-Int-ProdoctivityForm-MonthlyIncome",
+                "VinPersAmount": "50000",
+                "VinPersIncomeM": "Ingresos Familiares",
+                "VinPersTotalIncome": "50000"
+            }
+        ],
+        "RelatedParties": [
+            {
+                "pxObjClass": "BHD-Int-ProdoctivityForm-RelatedParties",
+                "SpecialCondition": "Si",
+                "VinPersCitizenship": "Panamá",
+                "VinPersFCityOfBirth": "Otras Ciudades",
+                "VinPersFCountryOfBirth": "Panamá",
+                "VinPersFDateOfBirth": "2000-02-13",
+                "VinPersFFirstLastName": "Biotre",
+                "VinPersFFirstName": "Mariel",
+                "VinPersFIdentityDocumentType": "Pasaporte",
+                "VinPersFIdNumberMainCountry": "EB4535",
+                "VinPersFNoIdNumber": "BDET896245",
+                "VinPersFPassportCountry": "Panamá",
+                "VinPersFPassportNumber3": "BDET896245",
+                "VinPersFRelationship": "Cónyuge"
+            },
+            {
+                "pxObjClass": "BHD-Int-ProdoctivityForm-RelatedParties",
+                "SpecialCondition": "No",
+                "VinPersCitizenship": "Panamá",
+                "VinPersFCityOfBirth": "Otras Ciudades",
+                "VinPersFCountryOfBirth": "Panamá",
+                "VinPersFDateOfBirth": "1980-02-01",
+                "VinPersFFirstLastName": "Nuytr",
+                "VinPersFFirstName": "Rene",
+                "VinPersFIdentityDocumentType": "Pasaporte",
+                "VinPersFIdNumberMainCountry": "DB2932",
+                "VinPersFNoIdNumber": "BER324523",
+                "VinPersFPassportCountry": "Panamá",
+                "VinPersFPassportNumber3": "BER324523",
+                "VinPersFRelationship": "Padre"
+            }
+        ]
+    }
+}
